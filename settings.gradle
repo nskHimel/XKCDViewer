@@ -1,0 +1,2 @@
+rootProject.name = "XKCD Viewer"
+include ':app'
